@@ -57,7 +57,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/yourrepository.git
+git clone https://github.com/saraahmed345/NLP_Project.git
 cd yourrepository
 Run the Main Script:
 
